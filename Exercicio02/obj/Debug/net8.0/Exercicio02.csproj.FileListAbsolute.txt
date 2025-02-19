@@ -1,0 +1,14 @@
+D:\Atividades\POO\Exercicio02\bin\Debug\net8.0\Exercicio02.exe
+D:\Atividades\POO\Exercicio02\bin\Debug\net8.0\Exercicio02.deps.json
+D:\Atividades\POO\Exercicio02\bin\Debug\net8.0\Exercicio02.runtimeconfig.json
+D:\Atividades\POO\Exercicio02\bin\Debug\net8.0\Exercicio02.dll
+D:\Atividades\POO\Exercicio02\bin\Debug\net8.0\Exercicio02.pdb
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.cs
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\Exercicio02.csproj.CoreCompileInputs.cache
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\Exercicio02.dll
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\refint\Exercicio02.dll
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\Exercicio02.pdb
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\Exercicio02.genruntimeconfig.cache
+D:\Atividades\POO\Exercicio02\obj\Debug\net8.0\ref\Exercicio02.dll
